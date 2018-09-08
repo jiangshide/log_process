@@ -1,10 +1,4 @@
 *.js linguist-language=go
 *.css linguist-language=go
 *.html linguist-language=go
-*.js linguist-language=ios
-*.css linguist-language=ios
-*.html linguist-language=ios
-*.js linguist-language=android
-*.css linguist-language=android
-*.html linguist-language=android
 
